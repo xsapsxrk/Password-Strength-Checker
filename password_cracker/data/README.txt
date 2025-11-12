@@ -1,0 +1,1 @@
+Wordlists folder. rockyou.txt intentionally excluded per user request. Download separately and place here as 'rockyou.txt'.
